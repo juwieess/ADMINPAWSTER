@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "962783651024",
+    "firebase_url": "https://real-pawster-booking-system-default-rtdb.firebaseio.com",
+    "project_id": "real-pawster-booking-system",
+    "storage_bucket": "real-pawster-booking-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962783651024:android:9a608823cc1bdb67186ad5",
+        "android_client_info": {
+          "package_name": "com.example.adminrealpawster"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4EsxwK520wzIll0BN3CXPD9bkx6_l7Bs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962783651024:android:094963c4cd3d9bfe186ad5",
+        "android_client_info": {
+          "package_name": "com.example.realpawsterbookingsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4EsxwK520wzIll0BN3CXPD9bkx6_l7Bs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
